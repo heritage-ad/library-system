@@ -1,0 +1,20 @@
+Treasure Island
+Robert Louis Stevenson
+Adventure
+1
+1984
+George Orwell
+Dystopian Fiction
+1
+Pride and Prejudice
+Jane Austen
+Romantic Fiction
+1
+The Scarlet Letter
+Nathaniel Hawthorne
+Historical Fiction
+1
+To kill a Mockingbird
+Harper Lee
+Classic Fiction
+1
